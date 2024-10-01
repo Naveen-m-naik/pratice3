@@ -1,0 +1,24 @@
+h1{
+    color:orange;
+    text-align: center;
+    
+}
+body{
+    background:beige;
+}
+button{
+    color:aqua;
+    background-color:lightgrey;
+}
+input
+{
+    color:whitesmoke;
+    background-color:black;
+}
+pre{
+    color:rgb(196,55,69);
+}
+select{
+    color:blueviolet;
+    background-color:palegoldenrod;
+}
